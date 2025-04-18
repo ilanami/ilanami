@@ -1,4 +1,4 @@
-![Banner IlaNami](./images/banner.svg)
+![Mi Banner](./Banner.png)
 
 # Hola 👋, Soy IlaNami
 
