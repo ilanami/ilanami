@@ -29,7 +29,7 @@
 
 ## 📌 Enlaces de Interés:
 
-- 🛠️ [IlaNami AD Guide - Guía interactiva de Pentesting para Active Directory](https://ilanami.github.io/IlaNami-ADGuide/)
+- 🛠️ [IlaNami AD Guide - Guía interactiva de Pentesting para Active Directory](https://ilanami.github.io/llaNami-ADGuide/)
 
 ## Lenguajes y herramientas:
 
