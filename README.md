@@ -47,7 +47,7 @@
 
 ## Proyectos destacados
 
-<a href="https://github.com/ilanami/IlaNami-ADGuide">
+<a href="https://ilanami.github.io/llaNami-ADGuide">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilanami&repo=IlaNami-ADGuide&theme=radical" />
 </a>
 
