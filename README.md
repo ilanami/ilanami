@@ -56,8 +56,8 @@
 
 ###  CTF Write-up Builder - Creador de Write-up interactivo
 [Ver demo](https://ctf-writeup-builder.vercel.app/)  
-<a href="https://github.com/ilanami/ctf-writeup-builder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilanami&repo=ctf-writeup-builder&theme=radical" />
+<a href="https://github.com/ilanami/ctf_writeup_builder" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilanami&repo=ctf_writeup_builder&theme=radical" />
 </a>
 
 ###  Password Security Tool - Herramienta de seguridad para contraseñas
