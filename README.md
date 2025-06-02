@@ -76,6 +76,7 @@ No es obligatorio, pero me ayudaría muchísimo a seguir creando herramientas co
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/1511amff)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ilanami)
+[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://donate.stripe.com/28E4gBfsE12FewWcHr5Vu00)
 
 ## Estadísticas de GitHub
 
