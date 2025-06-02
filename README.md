@@ -26,7 +26,7 @@
 - 🧠 Aprendiendo técnicas de análisis forense informático.
 - 🔧 Desarrollando herramientas para facilitar tareas de ciberseguridad.
 - 🌱 Expandiendo mis conocimientos en Active Directory y entornos Windows.
-- 📘 Estudiando la Normativa ISO 27001/2002.
+- 📘 Estudiando la Normativa ISO 27001/2022.
 
 ## 📌 Enlaces de Interés:
 
