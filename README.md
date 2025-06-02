@@ -66,6 +66,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilanami&repo=password-tool&theme=radical" />
 </a>
 
+## 🎁 Apoya mis Proyectos y Herramientas
+
+Si te han gustado mis proyectos y herramientas y te han sido útil, considera comprarme un café o realizarme una donación como agradecimiento.
+
+No es obligatorio, pero me ayudaría muchísimo a seguir creando herramientas como esta y a pagar las certificaciones de ciberseguridad que quiero obtener.
+
+¡Muchas gracias por tu apoyo!
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/1511amff)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ilanami)
+
 ## Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ilanami&show_icons=true&theme=radical)
