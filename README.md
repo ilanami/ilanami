@@ -48,8 +48,21 @@
 
 ## Proyectos destacados
 
-<a href="[https://ilanami.github.io/llaNami-ADGuide](https://ilanami.github.io/llaNami-ADGuide/)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilanami&repo=IlaNami-ADGuide&theme=radical" />
+###  llaNami AD Guide - Guía interactiva de Pentesting para Active Directory
+[Ver demo](https://ilanami.github.io/llaNami-ADGuide/)  
+<a href="https://github.com/ilanami/llaNami-ADGuide">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilanami&repo=llaNami-ADGuide&theme=radical" />
+</a>
+
+###  CTF Write-up Builder - Creador de Write-up interactivo
+[Ver demo](https://ctf-writeup-builder.vercel.app/)  
+<a href="https://github.com/ilanami/ctf-writeup-builder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilanami&repo=ctf-writeup-builder&theme=radical" />
+</a>
+
+###  Password Security Tool - Herramienta de seguridad para contraseñas
+<a href="https://github.com/ilanami/password-tool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilanami&repo=password-tool&theme=radical" />
 </a>
 
 ## Estadísticas de GitHub
