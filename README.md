@@ -17,7 +17,7 @@
 - 🔐 Entusiasta de la ciberseguridad y hacking ético.
 - 🔍 Estudiante de análisis forense informático.
 - 👩‍💻 Apasionada por la creación de herramientas y desarrollo.
-- 🛠️ Desarrolladora de la guía interactiva de pentesting IlaNami AD Guide.
+- 🛠️ Desarrolladora de herramientas practicas.
 - 📚 Siempre aprendiendo nuevas técnicas y habilidades en el mundo de la seguridad.
 
 ## 💻 Actualmente estoy:
