@@ -47,6 +47,8 @@ Combino **10 años de gestión de incidentes técnicos bajo SLAs** con sólida f
 | CEH — Certified Ethical Hacker | EC-Council | 🟡 En curso |
 | Máster en Desarrollo con IA | Big School | 🟡 En curso |
 
+***
+
 ### 🖼️ Galería de Certificaciones
 
 #### 🎓 Formación Principal y Certificaciones Profesionales
@@ -386,10 +388,6 @@ Herramienta para documentar resoluciones de Capture The Flag de forma estructura
 
 🔗 [Demo](https://ctf-writeup-builder.vercel.app/) · [Repositorio](https://github.com/ilanami/ctf_writeup_builder)
 
-<a href="https://github.com/ilanami/ctf_writeup_builder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilanami&repo=ctf_writeup_builder&theme=radical" />
-</a>
-
 ***
 
 ### 🏰 IlaNami AD Guide
@@ -399,20 +397,12 @@ Recurso visual e interactivo con técnicas de explotación de AD y demo funciona
 
 🔗 [Demo](https://ilanami.github.io/llaNami-ADGuide/) · [Repositorio](https://github.com/ilanami/llaNami-ADGuide)
 
-<a href="https://github.com/ilanami/llaNami-ADGuide">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilanami&repo=llaNami-ADGuide&theme=radical" />
-</a>
-
 ***
 
 ### 🔑 Password Security Tool
 **Análisis de contraseñas según criterios NIST · Python**
 
 🔗 [Repositorio](https://github.com/ilanami/password-tool)
-
-<a href="https://github.com/ilanami/password-tool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilanami&repo=password-tool&theme=radical" />
-</a>
 
 ***
 
