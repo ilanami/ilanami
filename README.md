@@ -266,9 +266,9 @@ Recurso visual e interactivo con técnicas de explotación de AD y demo funciona
 
 Si mis herramientas te resultan útiles, puedes apoyar el desarrollo de futuros proyectos y certificaciones de ciberseguridad:
 
-[
-[
-[
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 ***
 
