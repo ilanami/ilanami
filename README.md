@@ -252,13 +252,8 @@ Recurso visual e interactivo con técnicas de explotación de AD y demo funciona
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilanami&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilanami&layout=compact&theme=radical" />
-</p>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ilanami&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ilanami&layout=compact&theme=radical)
 
 ***
 
