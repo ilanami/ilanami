@@ -460,9 +460,8 @@ Recurso visual e interactivo con técnicas de explotación de AD y demo funciona
 Si mis herramientas te resultan útiles, puedes apoyar el desarrollo de futuros proyectos y certificaciones de ciberseguridad:
 
 <p align="center">
-  <a href="https://www.paypal.me/ilanami" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
+  <a href="https://www.paypal.com/paypalme/1511amff" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
   <a href="https://buymeacoffee.com/ilanami" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
-  <a href="https://stripe.com/checkout" target="_blank"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/></a>
 </p>
 
 ***
