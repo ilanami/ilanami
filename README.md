@@ -418,8 +418,40 @@ Recurso visual e interactivo con técnicas de explotación de AD y demo funciona
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ilanami&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ilanami&layout=compact&theme=radical)
+<p align="center">
+  <table style="border: none; margin: auto;">
+    <tr>
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/ilanami?tab=repositories">
+          <img alt="Repositorios" src="https://img.shields.io/badge/Repositorios-14-EF3B39?style=for-the-badge" />
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/ilanami?tab=followers">
+          <img alt="Seguidores" src="https://img.shields.io/badge/Seguidores-~500-4CAF50?style=for-the-badge" />
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/ilanami?tab=stars">
+          <img alt="Stars" src="https://img.shields.io/badge/Stars-100+-FFD700?style=for-the-badge" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+### 📈 Actividad de GitHub
+
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ilanami&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180px" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilanami&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180px" />
+</p>
+
+### 🔥 Racha de Contribuciones
+
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=ilanami&theme=radical&hide_border=true" />
+</p>
 
 ***
 
@@ -427,9 +459,11 @@ Recurso visual e interactivo con técnicas de explotación de AD y demo funciona
 
 Si mis herramientas te resultan útiles, puedes apoyar el desarrollo de futuros proyectos y certificaciones de ciberseguridad:
 
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+<p align="center">
+  <a href="https://www.paypal.me/ilanami" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
+  <a href="https://buymeacoffee.com/ilanami" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+  <a href="https://stripe.com/checkout" target="_blank"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/></a>
+</p>
 
 ***
 
